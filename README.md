@@ -31,7 +31,7 @@ piwik_basepath      | The base path of the folder where the Piwik installation r
 Using
 =====
 
-To start using Piwik, it must be included on in your page layout near the `</body>` html tag.
+To start using Piwik, it must be included in your page layout near the `</body>` html tag.
 Add this code:
 
 ```
