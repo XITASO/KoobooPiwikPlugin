@@ -1,4 +1,17 @@
-﻿namespace Kooboo.CMS.Piwik
+﻿// ***********************************************************************
+// Assembly         : PiwikPlugin
+// Author           : Tobias Wallura
+// Created          : 2013-06-14
+// ***********************************************************************
+// <copyright file="PiwikPlugin.cs" company="Xitaso GmbH">
+//     Copyright (c) Xitaso GmbH
+//     Licensed under the MIT License
+//     See the file LICENSE.txt for details.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+
+namespace Kooboo.CMS.Piwik
 {
     using System;
     using System.ComponentModel;

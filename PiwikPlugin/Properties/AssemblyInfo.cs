@@ -1,4 +1,17 @@
-﻿using System.Reflection;
+﻿// ***********************************************************************
+// Assembly         : PiwikPlugin
+// Author           : Tobias Wallura
+// Created          : 2013-06-14
+// ***********************************************************************
+// <copyright file="AssemblyInfo.cs" company="Xitaso GmbH">
+//     Copyright (c) Xitaso GmbH
+//     Licensed under the MIT License
+//     See the file LICENSE.txt for details.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
